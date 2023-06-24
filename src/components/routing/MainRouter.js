@@ -11,29 +11,29 @@ const MainRouter = () => {
   return (
     <>
       <Header />
+      <Banner />
       <Routes>
-        <Route path="/rent-ease" element={<Banner />} />
         <Route
-          path="/buy"
+          path="/rent-ease/buy"
           element={
             <>
-              <Banner /> <Buy />
+               <Buy />
             </>
           }
         />
         <Route
-          path="/rent"
+          path="/rent-ease/rent"
           element={
             <>
-              <Banner /> <Rent />
+               <Rent />
             </>
           }
         />
         <Route
-          path="/sell"
+          path="/rent-ease/sell"
           element={
             <>
-              <Banner /> <Sell />
+               <Sell />
             </>
           }
         />

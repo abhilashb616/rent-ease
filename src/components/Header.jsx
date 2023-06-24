@@ -17,13 +17,13 @@ const Header = () => {
             <Link to="/rent-ease" style={{ textDecoration: "none" }}>
               <Li>Home</Li>
             </Link>
-            <Link to="buy" style={{ textDecoration: "none" }}>
+            <Link to="/rent-ease/buy" style={{ textDecoration: "none" }}>
               <Li>Buy</Li>
             </Link>
-            <Link to="rent" style={{ textDecoration: "none" }}>
+            <Link to="/rent-ease/rent" style={{ textDecoration: "none" }}>
               <Li>Rent</Li>
             </Link>
-            <Link to="sell" style={{ textDecoration: "none" }}>
+            <Link to="/rent-ease/sell" style={{ textDecoration: "none" }}>
               <Li>Sell</Li>
             </Link>
           </Ul>

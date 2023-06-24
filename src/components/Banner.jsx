@@ -24,7 +24,7 @@ const Banner = () => {
             <NavigationContainer>
               <Nav>
                 <Ul>
-                  <Link to="/rent" style={{ textDecoration: "none" }}>
+                  <Link to="/rent-ease/rent" style={{ textDecoration: "none" }}>
                     <Li
                       onClick={() => {
                         setHeading("Discover your perfect rental");
@@ -35,7 +35,7 @@ const Banner = () => {
                       Rent
                     </Li>
                   </Link>
-                  <Link to="/buy" style={{ textDecoration: "none" }}>
+                  <Link to="/rent-ease/buy" style={{ textDecoration: "none" }}>
                     <Li
                       onClick={() => {
                         setHeading("Discover your perfect home");
@@ -48,7 +48,7 @@ const Banner = () => {
                       Buy
                     </Li>
                   </Link>
-                  <Link to="/sell" style={{ textDecoration: "none" }}>
+                  <Link to="/rent-ease/sell" style={{ textDecoration: "none" }}>
                     <Li
                       onClick={() => {
                         setHeading("Sell your home with confidence");
