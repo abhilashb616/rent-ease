@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rent-ease/static/css/main.ca288beb.css",
+    "main.js": "/rent-ease/static/js/main.ca633efb.js",
+    "static/js/787.43b85197.chunk.js": "/rent-ease/static/js/787.43b85197.chunk.js",
+    "static/media/partner_agent.png": "/rent-ease/static/media/partner_agent.76c8d008fc10653707e2.png",
+    "static/media/image1.webp": "/rent-ease/static/media/image1.e878049d7937c599d59a.webp",
+    "static/media/image2.webp": "/rent-ease/static/media/image2.7f279325cdc4482adae6.webp",
+    "static/media/Buy_Home.jpg": "/rent-ease/static/media/Buy_Home.a2aba213f36da36bc642.jpg",
+    "static/media/image4.webp": "/rent-ease/static/media/image4.77967ebdfa9b2aab53a7.webp",
+    "static/media/image3.webp": "/rent-ease/static/media/image3.64d78a073c4d4ea791c5.webp",
+    "static/media/footer-art.svg": "/rent-ease/static/media/footer-art.3dc2e897450f51f87d253e045d72e4bf.svg",
+    "index.html": "/rent-ease/index.html",
+    "main.ca288beb.css.map": "/rent-ease/static/css/main.ca288beb.css.map",
+    "main.ca633efb.js.map": "/rent-ease/static/js/main.ca633efb.js.map",
+    "787.43b85197.chunk.js.map": "/rent-ease/static/js/787.43b85197.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca288beb.css",
+    "static/js/main.ca633efb.js"
+  ]
+}
