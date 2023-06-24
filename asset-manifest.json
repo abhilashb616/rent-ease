@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rent-ease/static/css/main.ca288beb.css",
-    "main.js": "/rent-ease/static/js/main.ca633efb.js",
+    "main.js": "/rent-ease/static/js/main.2ec9bb08.js",
     "static/js/787.43b85197.chunk.js": "/rent-ease/static/js/787.43b85197.chunk.js",
     "static/media/partner_agent.png": "/rent-ease/static/media/partner_agent.76c8d008fc10653707e2.png",
     "static/media/image1.webp": "/rent-ease/static/media/image1.e878049d7937c599d59a.webp",
@@ -12,11 +12,11 @@
     "static/media/footer-art.svg": "/rent-ease/static/media/footer-art.3dc2e897450f51f87d253e045d72e4bf.svg",
     "index.html": "/rent-ease/index.html",
     "main.ca288beb.css.map": "/rent-ease/static/css/main.ca288beb.css.map",
-    "main.ca633efb.js.map": "/rent-ease/static/js/main.ca633efb.js.map",
+    "main.2ec9bb08.js.map": "/rent-ease/static/js/main.2ec9bb08.js.map",
     "787.43b85197.chunk.js.map": "/rent-ease/static/js/787.43b85197.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca288beb.css",
-    "static/js/main.ca633efb.js"
+    "static/js/main.2ec9bb08.js"
   ]
 }
