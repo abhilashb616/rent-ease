@@ -8,13 +8,13 @@ const Header = () => {
     <HeaderContainer>
       <NavigationContainer>
         <LogoContainer>
-          <Link to="/" style={{ textDecoration: "none" }}>
+          <Link to="/rent-ease" style={{ textDecoration: "none" }}>
             <Logo>RentEase</Logo>
           </Link>
         </LogoContainer>
         <Nav>
           <Ul>
-            <Link to="/" style={{ textDecoration: "none" }}>
+            <Link to="/rent-ease" style={{ textDecoration: "none" }}>
               <Li>Home</Li>
             </Link>
             <Link to="buy" style={{ textDecoration: "none" }}>

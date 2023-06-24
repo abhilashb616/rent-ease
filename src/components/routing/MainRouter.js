@@ -12,7 +12,7 @@ const MainRouter = () => {
     <>
       <Header />
       <Routes>
-        <Route path="/" element={<Banner />} />
+        <Route path="/rent-ease" element={<Banner />} />
         <Route
           path="/buy"
           element={

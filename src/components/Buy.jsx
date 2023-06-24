@@ -1,18 +1,18 @@
 import React from "react";
 import styled from "styled-components";
 import CurrencyRupeeIcon from "@mui/icons-material/CurrencyRupee";
-import newest1 from "../assets/images/buy/new/image1.webp";
-import newest2 from "../assets/images/buy/new/image2.webp";
-import newest3 from "../assets/images/buy/new/image3.webp";
-import newest4 from "../assets/images/buy/new/image4.webp";
+import newest1 from "../assets/images/buy/luxury/image1.webp";
+import newest2 from "../assets/images/buy/luxury/image2.webp";
+import newest3 from "../assets/images/buy/luxury/image3.webp";
+import newest4 from "../assets/images/buy/luxury/image4.webp";
 import affordable1 from "../assets/images/buy/affordable/image1.webp";
 import affordable2 from "../assets/images/buy/affordable/image2.webp";
 import affordable3 from "../assets/images/buy/affordable/image3.webp";
 import affordable4 from "../assets/images/buy/affordable/image4.webp";
-import lux1 from "../assets/images/buy/luxury/image1.webp";
-import lux2 from "../assets/images/buy/luxury/image2.webp";
-import lux3 from "../assets/images/buy/luxury/image3.webp";
-import lux4 from "../assets/images/buy/luxury/image4.webp";
+import lux1 from "../assets/images/buy/new/image1.webp";
+import lux2 from "../assets/images/buy/new/image2.webp";
+import lux3 from "../assets/images/buy/new/image3.webp";
+import lux4 from "../assets/images/buy/new/image4.webp";
 
 const Buy = () => {
   return (
@@ -198,94 +198,94 @@ const Buy = () => {
       </MainContainer>
 
       <MainContainer>
-      <NewestListings>
-        <Heading>
-          <H2>Luxury Homes</H2>
-        </Heading>
-        <MainDataContainer>
-          <DataContainer>
-            <ImageContainer31></ImageContainer31>
-            <Description>
-              <Price>
-                <Rupees>
-                  <CurrencyRupeeIcon />
-                </Rupees>
-                <H2>1500000</H2>
-              </Price>
-              <Area>
-                <P>
-                  2 bed &nbsp;&nbsp;&nbsp; 2 bath &nbsp;&nbsp;&nbsp;&nbsp;
-                  967sqft
-                </P>
-              </Area>
-              <Place>
-                <P>Trivandrum</P>
-              </Place>
-            </Description>
-          </DataContainer>
-          <DataContainer>
-            <ImageContainer32></ImageContainer32>
-            <Description>
-              <Price>
-                <Rupees>
-                  <CurrencyRupeeIcon />
-                </Rupees>
-                <H2>2500000</H2>
-              </Price>
-              <Area>
-                <P>
-                  2 bed &nbsp;&nbsp;&nbsp; 2 bath &nbsp;&nbsp;&nbsp;&nbsp;
-                  967sqft
-                </P>
-              </Area>
-              <Place>
-                <P>Kollam</P>
-              </Place>
-            </Description>
-          </DataContainer>
-          <DataContainer>
-            <ImageContainer33></ImageContainer33>
-            <Description>
-              <Price>
-                <Rupees>
-                  <CurrencyRupeeIcon />
-                </Rupees>
-                <H2>1000000</H2>
-              </Price>
-              <Area>
-                <P>
-                  2 bed &nbsp;&nbsp;&nbsp; 2 bath &nbsp;&nbsp;&nbsp;&nbsp;
-                  967sqft
-                </P>
-              </Area>
-              <Place>
-                <P>Ernakulam</P>
-              </Place>
-            </Description>
-          </DataContainer>
-          <DataContainer>
-            <ImageContainer34></ImageContainer34>
-            <Description>
-              <Price>
-                <Rupees>
-                  <CurrencyRupeeIcon />
-                </Rupees>
-                <H2>1800000</H2>
-              </Price>
-              <Area>
-                <P>
-                  2 bed &nbsp;&nbsp;&nbsp; 2 bath &nbsp;&nbsp;&nbsp;&nbsp;
-                  967sqft
-                </P>
-              </Area>
-              <Place>
-                <P>Kochi</P>
-              </Place>
-            </Description>
-          </DataContainer>
-        </MainDataContainer>
-      </NewestListings>
-    </MainContainer>
+        <NewestListings>
+          <Heading>
+            <H2>Luxury Homes</H2>
+          </Heading>
+          <MainDataContainer>
+            <DataContainer>
+              <ImageContainer31></ImageContainer31>
+              <Description>
+                <Price>
+                  <Rupees>
+                    <CurrencyRupeeIcon />
+                  </Rupees>
+                  <H2>1500000</H2>
+                </Price>
+                <Area>
+                  <P>
+                    2 bed &nbsp;&nbsp;&nbsp; 2 bath &nbsp;&nbsp;&nbsp;&nbsp;
+                    967sqft
+                  </P>
+                </Area>
+                <Place>
+                  <P>Trivandrum</P>
+                </Place>
+              </Description>
+            </DataContainer>
+            <DataContainer>
+              <ImageContainer32></ImageContainer32>
+              <Description>
+                <Price>
+                  <Rupees>
+                    <CurrencyRupeeIcon />
+                  </Rupees>
+                  <H2>2500000</H2>
+                </Price>
+                <Area>
+                  <P>
+                    2 bed &nbsp;&nbsp;&nbsp; 2 bath &nbsp;&nbsp;&nbsp;&nbsp;
+                    967sqft
+                  </P>
+                </Area>
+                <Place>
+                  <P>Kollam</P>
+                </Place>
+              </Description>
+            </DataContainer>
+            <DataContainer>
+              <ImageContainer33></ImageContainer33>
+              <Description>
+                <Price>
+                  <Rupees>
+                    <CurrencyRupeeIcon />
+                  </Rupees>
+                  <H2>1000000</H2>
+                </Price>
+                <Area>
+                  <P>
+                    2 bed &nbsp;&nbsp;&nbsp; 2 bath &nbsp;&nbsp;&nbsp;&nbsp;
+                    967sqft
+                  </P>
+                </Area>
+                <Place>
+                  <P>Ernakulam</P>
+                </Place>
+              </Description>
+            </DataContainer>
+            <DataContainer>
+              <ImageContainer34></ImageContainer34>
+              <Description>
+                <Price>
+                  <Rupees>
+                    <CurrencyRupeeIcon />
+                  </Rupees>
+                  <H2>1800000</H2>
+                </Price>
+                <Area>
+                  <P>
+                    2 bed &nbsp;&nbsp;&nbsp; 2 bath &nbsp;&nbsp;&nbsp;&nbsp;
+                    967sqft
+                  </P>
+                </Area>
+                <Place>
+                  <P>Kochi</P>
+                </Place>
+              </Description>
+            </DataContainer>
+          </MainDataContainer>
+        </NewestListings>
+      </MainContainer>
     </>
   );
 };
@@ -436,7 +436,8 @@ const Area = styled.div`
   // background-color: red;
 `;
 const P = styled.p`
-color: var(--nav-text-color);`;
+  color: var(--nav-text-color);
+`;
 const Place = styled.div`
   width: 100%;
   height: 30%;
