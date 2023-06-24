@@ -1,3 +1,16 @@
+:root{
+  --logo-color: #000000;
+  --nav-text-color: #3f4148;
+  --nav-text-after-hover:#ffffff;
+  --nav-bg-color: #ffffff;
+  --nav-bg-after-hover: #007882;
+  --login-btn: #3f4148;
+  --signup-btn: #ffffff;
+  --bg-login-btn:#ffffff;
+  --bg-signup-btn: #007882;
+  --btn-border-color: #007882;
+  --banner-text: #ffffff;
+}
 *{
   margin: 0;
   padding: 0;

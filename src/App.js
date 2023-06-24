@@ -1,8 +1,11 @@
 import './App.css';
+import MainRouter from './components/routing/MainRouter';
 
 function App() {
   return (
-    <div></div>
+    <div>
+      <MainRouter />
+    </div>
   );
 }
 
